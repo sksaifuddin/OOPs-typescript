@@ -16,4 +16,12 @@ The any data type is the superset of all the data types in TypeScript. Giving an
 4. Undefined
 5. Null
 
+### User Defined Data types
+
+1. Arrays
+2. Enum
+3. Tuple
+4. Class
+5. Interface
+
 

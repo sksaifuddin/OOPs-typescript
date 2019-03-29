@@ -5,8 +5,8 @@ const myArr2: number[] = new Array();
 const myArr3: number[] = Array();
 
 // best way to delcare a array with its type;
-let myArr4: Array<string>
+let myArr4: Array<number> = [1,2,3];
 
-myArr4[0] = "Saif";
+myArr3.push(2);
 
-console.log(myArr4);
+console.log(myArr3);

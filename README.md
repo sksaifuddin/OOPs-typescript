@@ -47,5 +47,5 @@ Enum in TypeScript supports reverse mapping. It means we can access the value of
 
 ### Tuple
 
-Tuple is a new data type which includes set of values of different data types. All the Array methods can be applied to the tuple
+Tuple is a new data type which includes set of values of different data types. All the Array methods can be applied to the tuple.Tuples are mutable which means you can update or change the values of tuple elements.
 

@@ -45,4 +45,7 @@ Technically enums can be mixed with string and numeric members, but it’s not c
 
 Enum in TypeScript supports reverse mapping. It means we can access the value of a member and also a member name from its value.
 
+### Tuple
+
+Tuple is a new data type which includes set of values of different data types. All the Array methods can be applied to the tuple
 

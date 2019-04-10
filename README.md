@@ -57,3 +57,28 @@ In TypeScript, the core focus is on type-checking which enforces the use of a pa
 
 It is actually a concept of abstraction and encapsulation.In object oriented programming, an interface generally defines the set of methods (or messages) that an instance of a class that has that interface could respond to.
 
+consider the following situation,
+
+```
+You are in the middle of a large, empty room, when a zombie suddenly attacks you.
+You have no weapon.
+Luckily, a fellow living human is standing in the doorway of the room.
+"Quick!" you shout at him. "Throw me something I can hit the zombie with!"
+
+```
+Now consider:
+You didn't specify (nor do you care) exactly what your friend will choose to toss;
+But it doesn't matter, as long as:
+
+It's something that can be tossed (He can't toss you the sofa)
+
+It's something that you can grab hold of (Let's hope he didn't toss a shuriken)
+
+It's something you can use to bash the zombie's brains out (That rules out pillows and such)
+
+It doesn't matter whether you get a baseball bat or a hammer -
+as long as it implements your three conditions, you're good.
+
+To sum it up:
+
+When you write an interface, you're basically saying: "I need something that..."

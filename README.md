@@ -49,3 +49,11 @@ Enum in TypeScript supports reverse mapping. It means we can access the value of
 
 Tuple is a new data type which includes set of values of different data types. All the Array methods can be applied to the tuple.Tuples are mutable which means you can update or change the values of tuple elements.
 
+### Interface
+
+An interface is a syntactical contract that an entity should conform to. In other words, an interface defines the syntax that any entity must adhere to.
+
+In TypeScript, the core focus is on type-checking which enforces the use of a particular type. Interfaces are a way of naming these types. It’s basically a group of related methods and properties that describe an object.
+
+It is actually a concept of abstraction and encapsulation.In object oriented programming, an interface generally defines the set of methods (or messages) that an instance of a class that has that interface could respond to.
+

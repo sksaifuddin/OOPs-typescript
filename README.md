@@ -86,5 +86,6 @@ When you write an interface, you're basically saying: "I need something that..."
 ### Class
 
 In object-oriented programming, a class is the template of objects. A class defines how an object would look like in terms of that object’s features and functionalities. A class also encapsulates data for the object.Use the class keyword to declare a class in TypeScript.
+You’ll notice that in the class when we refer to one of the members of the class we prepend this.. This denotes that it’s a member access.
 
 

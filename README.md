@@ -93,6 +93,7 @@ You’ll notice that in the class when we refer to one of the members of the cla
 functions in typescript can be written in two ways,
 1) Named Functions,
 2) anonymous Functions
+
 See the example code in Functions folder.
 
 
